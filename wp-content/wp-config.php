@@ -1,0 +1,2 @@
+define('JWT_AUTH_SECRET_KEY', 'KEY_CAPECO2030');
+define('JWT_AUTH_CORS_ENABLE', true);
